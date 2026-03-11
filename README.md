@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+Soy+Eder;Backend+Developer+en+Java;Spring+Boot+%7C+APIs+REST;PostgreSQL+%7C+Hibernate;Siempre+aprendiendo+nuevas+tecnologías)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+Soy+Eder;Backend+Developer+en+Java;Spring+Boot+%7C+APIs+REST;PostgreSQL+%7C+Hibernate;Siempre+aprendiendo)](https://git.io/typing-svg)
