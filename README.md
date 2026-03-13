@@ -4,7 +4,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&color=7AF79A&center=true&vCenter=true&width=350&lines=Hola+👋;Soy+Eder+Ander;Backend+Developer+Java)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif?raw=true" width="300"/>
 
 </div>
 
