@@ -15,7 +15,7 @@
 ## 👨‍💻 Acerca de mí
 
 Hola 👋
-Soy **Eder Ander**, desarrollador enfocado en **Backend** apasionado por construir sistemas robustos y escalables.
+Soy **Eder Ander**, estudiante de Ing de Sistemas, desarrollador enfocado en **Backend** apasionado por construir sistemas robustos y escalables.
 
 Actualmente estoy enfocado en fortalecer mis habilidades en **Java Backend Development**, trabajando con tecnologías modernas para construir APIs, manejar bases de datos 
 
