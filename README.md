@@ -9,3 +9,6 @@ Hola 👋
 Soy **Eder Ander**, desarrollador enfocado en **Backend** apasionado por construir sistemas robustos y escalables.
 
 Actualmente estoy enfocado en fortalecer mis habilidades en **Java Backend Development**, trabajando con tecnologías modernas para construir APIs, manejar bases de datos 
+
+## 👨‍💻 Stack de Tecnologias:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
