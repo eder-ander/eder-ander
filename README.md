@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+Soy+Eder;Backend+Developer+en+Java;Spring+Boot+%7C+APIs+REST;PostgreSQL+%7C+Hibernate;Siempre+aprendiendo)](https://git.io/typing-svg)
 
-(https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif?raw=true" width="500"/>
+
+</div>
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
