@@ -5,13 +5,8 @@
 <div align="center">
 
 <div align="center">
-
 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif?raw=true" width="300"/>
-
 </div>
-
-</div>
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 
 ## 👨‍💻 Acerca de mí
